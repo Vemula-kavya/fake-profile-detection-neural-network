@@ -51,11 +51,10 @@ is fake or genuine using a trained ANN model.
 
 ## 📸 Screenshots
 
-### Accuracy & Loss Graph
-![Accuracy Graph](accuracy_graph.png)
+Accuracy & Loss Graph
 
-### Prediction Output
-![Prediction Result](prediction_result.png)
+Prediction Output
+
 
 ---
 
